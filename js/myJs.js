@@ -7,10 +7,10 @@ const textConfig = {
   text6: "Yêu ơi là yêu <3",
   text7: "lí do em thíc anh là gìiiii",
   text8: "Gửi cho anh <3",
-  text9: "Vì anh đẹp try vlllll",
+  text9: "Vì anh đẹp try và bé xinh gái vlllll",
   text10: "Anh biết mà ^^ iu béee 300.000",
   text11:
-    "Chủ nhật anh lên hà Nội rùi đón bé đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho anh đi nàooo",
+    "thứ 7 mình cùng đi bắn cung nhaaaaa",
   text12: "Okii lunn <3",
 };
 
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "heart/sanda.html";
           },
         });
       }
