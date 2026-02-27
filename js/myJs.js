@@ -11,7 +11,7 @@ const textConfig = {
   text10: "I knew it ^^ love you 300,000",
   text11:
     "I think my heart just found its favorite place — right next to you.",
-  text12: "nahh, lov u <3",
+  text12: "nahhh, lov u <3",
 };
 
 $(document).ready(function () {
